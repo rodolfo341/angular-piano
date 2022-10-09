@@ -1,0 +1,9 @@
+.list-group-item {
+    cursor: pointer;
+    height: 50px;
+}
+
+.row {
+    align-items: center;
+    height: 100vh;
+}
