@@ -3,7 +3,12 @@
     height: 50px;
 }
 
+/* para centrar verticalmente */
 .row {
     align-items: center;
     height: 100vh;
+}
+
+.list-group-item:active {
+    opacity: 0.7; 
 }
